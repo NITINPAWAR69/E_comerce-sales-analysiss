@@ -7,3 +7,11 @@
 **3)List of Orders - This dataset contains purchase information including Order ID, Date of Purchase, and customer details.**
 
 **4)Order Details - This dataset contains order ID, price, quantity, profit, category and subcategory of product.**
+
+**5)Sales target - This dataset contains sales target amount and date for each product category.**
+
+**𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑫𝒊𝒓𝒆𝒄𝒕𝒐𝒓𝒚 -**
+
+**This Project Repository consists of -**
+
+**SQL In-Depth Analysis - Analysed the dataset by writing complex SQL Queries to gain insights.**
